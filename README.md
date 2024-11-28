@@ -8,6 +8,10 @@ Terraform is an open-source tool that enables you to define and provision infras
 - Manage state files and workspaces.
 
 ---
+## Documentation link
+  ```bash
+  https://docs.google.com/document/d/1Fe0qAdfffXSNy_5xRSjLgNTc8adcleGc_dIeeLw76as/edit?usp=sharing
+  ```
 
 ## Setup
 
