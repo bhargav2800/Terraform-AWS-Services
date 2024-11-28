@@ -1,0 +1,7 @@
+users:
+  - username: raju
+    policies: [AmazonEC2FullAccess]
+  - username: sham
+    policies: [AmazonS3ReadOnlyAccess]
+  - username: baburao
+    policies: [AmazonS3ReadOnlyAccess, AmazonEC2FullAccess]
